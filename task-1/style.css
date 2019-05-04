@@ -1,0 +1,99 @@
+.btn1{
+    color:white;
+    background: #c63928;
+    padding:15px 50px;
+    outline:none;
+    font-size:20px;
+    border:1px white solid;
+
+}
+.btn2{
+    color:#2a61fb;
+    background: #fcd835;
+    padding:10px 25px;
+    outline:none;
+    font-size:25px;
+    border:3px #2a61fb solid;
+    font-family:  gugi;
+}
+.btn3{
+    color:#ffffff;
+    background:linear-gradient(to left, #5bd1d8,#88d29d);
+    outline:none;
+    font-size:20px;
+    padding:10px 40px;
+    border:1px white solid;
+    border-radius:25px;
+    font-weight:inherit;
+    
+
+}
+.btn4{
+    color:#6749ea;
+    background-color: white;
+    padding:10px 30px;
+    outline:none;
+    border:3px #6749ea solid;
+    font-size:20px;
+font-weight: bolder;
+font-size:20px;
+border-radius:10px;
+}
+.btn5{
+    background:linear-gradient(to bottom,#f6a731,#f9c433);
+    color:white;
+    border:2px #f49f32 solid;
+    padding:10px 30px;
+    outline:none;
+    font-size:20px;
+    font-size:20px;
+    border-radius:5px;
+
+
+}
+.fab {
+    color:#5eb2ef;
+    font-size:30px;
+    padding:10px;
+    
+}
+.btn6{
+    border:2px #5eb2ef solid;
+    background-color:white;
+    border-radius:40px;
+}
+button{
+    margin:20px;
+}
+.btn1:hover{
+background-color:#ed4d4f;
+cursor: pointer;
+}
+.btn2:hover{
+    background-color:#2a61fb;
+    color:#fcd835;
+    cursor:pointer;
+}
+.btn3:hover{
+    cursor:pointer;
+
+}
+.btn4:hover{
+    color:white;
+    background-color:#6749ea;
+    cursor:pointer;
+}
+.btn5:hover{
+    color:white;
+    background-color:#f38d31;
+    cursor:pointer;
+}
+.fab:hover{
+
+
+color:white;
+}
+.btn6:hover{
+    background-color:#5eb2ef;
+    cursor:pointer;
+}
